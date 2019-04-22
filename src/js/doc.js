@@ -1,0 +1,1 @@
+export const doc = 'TmV3ZG9j';
