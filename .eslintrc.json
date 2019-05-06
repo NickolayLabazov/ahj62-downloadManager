@@ -14,12 +14,12 @@
     },
     "rules": {
         "import/extensions": "off",
-        "import/no-cycle": "off",
+        "import/no-unresolved": "off",
         "no-empty": "off",
-        "no-tabs": "off",
+        "no-restricted-syntax": "off",
         "no-mixed-spaces-and-tabs": "off",
         "no-restricted-globals": "off",
         "prefer-destructuring": "off",
-        "class-methods-use-this": "off"
+        "import/prefer-default-export": "off"
     }
 }
